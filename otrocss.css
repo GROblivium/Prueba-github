@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;500&family=Roboto:wght@100;400;700&display=swap');
+
+.navbar {
+    background-color: grey;
+    font-size: 1.3rem;
+    padding: 0.7em;
+    display: flex;
+    align-items: center;
+}
+
+.index-img {
+    background-color: rgb(111, 118, 131);
+    width: 100%;
+}
+
+footer {
+    background-color: rgb(49, 46, 46);
+    color: aliceblue;
+    padding: .5em;
+    /*display: flex;*/
+    text-align: center;
+}
